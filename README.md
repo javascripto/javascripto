@@ -36,119 +36,105 @@ Gosto de construir software com foco em qualidade, clareza, arquitetura, manuten
 
 ### 🤖 Linguagens e Tecnologias
 
+<p align="center">
 <img
- align="left"
  alt="TypeScript"
  title="TypeScript"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> <img
- align="left"
  alt="JavaScript"
  title="JavaScript"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 /> <img
- align="left"
  alt="React"
  title="React"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 /> <img
- align="left"
  alt="Next.js"
  title="Next.js"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 /> <img
- align="left"
  alt="Node.js"
  title="Node.js"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 /> <img
- align="left"
  alt="NestJS"
  title="NestJS"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
 /> <img
- align="left"
  alt="Tailwind CSS"
  title="Tailwind CSS"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 /> <img
- align="left"
  alt="Angular"
  title="Angular"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
 /> <img
- align="left"
  alt="Kotlin"
  title="Kotlin"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 /> <img
- align="left"
  alt="Java"
  title="Java"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 /> <img
- align="left"
  alt="Spring"
  title="Spring"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 /> <img
- align="left"
  alt="Go"
  title="Go"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
 /> <img
- align="left"
  alt="Python"
  title="Python"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 /> <img
- align="left"
  alt="PostgreSQL"
  title="PostgreSQL"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 /> <img
- align="left"
  alt="Docker"
  title="Docker"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 /> <img
- align="left"
  alt="Git"
  title="Git"
  width="30px"
  style="padding-right: 10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+</p>
 
 <br/>
 <br/>
@@ -170,20 +156,26 @@ Gosto de construir software com foco em qualidade, clareza, arquitetura, manuten
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=javascripto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
+  <img
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascripto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
-<img
- align="left"
- alt="Top Langs"
- height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascripto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+<p align="center">
+</p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/javascripto/javascripto/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
 </p>
